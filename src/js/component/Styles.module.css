@@ -1,0 +1,14 @@
+.usrImg{
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    margin-top: 13px;
+}
+.trashEditDiv{
+    margin: 20px 15px 0px 15px
+}
+.h1Font{
+    
+}
